@@ -1,4 +1,4 @@
-# yz, 10/09/2024
+# yz, 01/03/2025
 
 from torchvision.datasets import CelebA
 import torchvision.transforms as transforms
