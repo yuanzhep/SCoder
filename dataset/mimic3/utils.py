@@ -1,5 +1,3 @@
-# 0120/2024, fedmm
-
 from mimic3models import common_utils
 
 import threading
