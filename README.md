@@ -1,5 +1,7 @@
 # SC Privacy project
 
+You are welcome to share your ideas by opening an issue or dropping me an email at [pengy1@ufl.edu](mailto:pengy1@ufl.edu).
+
 Existing privacy-enhancing strategies typically secure all transmitted information without considering which attributes should be protected or how much protection is needed, leading to:
 - Degraded target task performance  
 - Unnecessary privacy overhead  
