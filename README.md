@@ -14,7 +14,7 @@ Existing privacy-enhancing strategies typically secure all transmitted informati
 ## Repository Structure
 
 ```bash
-SafeCoder/
+SC/
 ├── dataset/                # Preprocessed three datasets
 ├── models/                 # Model definitions
 ├── utils/                  # Helper functions
