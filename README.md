@@ -1,4 +1,4 @@
-# Privacy project
+# SC Privacy project
 
 Existing privacy-enhancing strategies typically secure all transmitted information without considering which attributes should be protected or how much protection is needed, leading to:
 - Degraded target task performance  
