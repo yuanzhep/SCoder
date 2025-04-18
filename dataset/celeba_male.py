@@ -1,4 +1,4 @@
-# yz, 0115/2025
+# yz, 0115/2025, male clean
 
 def get_dataset(dataset_name):
     def label_divider(y):
