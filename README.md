@@ -10,7 +10,7 @@ Existing privacy-enhancing strategies typically secure all transmitted informati
 ## Features
 - Local ADV training with client-specific surrogate models  
 - Max-min optimization to balance utility/privacy  
-- Dynamic $\lambda$ adjustment  
+- Dynamic adjustment for privacy budget 
 - Both homogeneous and heterogeneous privacy
 
 ## Repository Structure
