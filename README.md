@@ -1,4 +1,4 @@
-# SC Privacy project
+# SC Privacy project (in progress)
 
 You are welcome to share your ideas by opening an issue or dropping me an email at [pengy1@ufl.edu](mailto:pengy1@ufl.edu).
 
