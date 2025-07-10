@@ -1,5 +1,3 @@
-# 0123/2024, data_main, fedmm
-
 import numpy as np
 import argparse
 import os
